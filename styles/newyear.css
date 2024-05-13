@@ -97,6 +97,21 @@ main{
     padding:30px;
     text-align: center;
 }
+/* Positive styles */
+.positive{
+    background-image:url("../images/watch.png");
+    background-repeat: no-repeat;
+}
+.positive-content{
+    padding:60px;
+    max-width: 500px;
+}
+.positive-title{
+    font-size:40px;
+    font-weight: 700;
+    color:#fff;
+    margin-bottom: 0px;
+}
 
 
                                            
